@@ -37,9 +37,11 @@ The dataset contains daily bike-sharing data with features such as:
 ---
 
 ## 📊 Example Visualization  
-*(Add an image from your notebook here, e.g. rentals by season or weather impact on demand)*  
+ 
 
 ---
+<img width="1920" height="983" alt="phela" src="https://github.com/user-attachments/assets/4983843f-18a6-4cda-9c64-57f5fe7e72e4" />
+<img width="1826" height="1007" alt="dusra (2)" src="https://github.com/user-attachments/assets/13865471-7f62-4612-a1fd-f18545d73c7a" />
 
 ## 🚀 How to Run  
 1. Clone the repository:  
